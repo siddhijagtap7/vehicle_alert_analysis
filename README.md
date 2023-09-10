@@ -7,5 +7,5 @@ Members: Siddhi Jagtap, Kiran Mogal, Tanaya Nene
 
 College: Marathwada Mitra Mandal’s College of Engineering
 
-College Mentor: Dr. Asma Shaikh (asmashaikh@mmcoe.edu.in)
+College Mentor: Dr. Asma Shaikh
 
